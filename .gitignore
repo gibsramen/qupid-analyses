@@ -1,3 +1,4 @@
 *.swo
 *.swp
 data/
+slurm_out/
